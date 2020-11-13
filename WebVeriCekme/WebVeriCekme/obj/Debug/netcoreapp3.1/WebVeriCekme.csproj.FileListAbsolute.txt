@@ -1,0 +1,5 @@
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\bin\Debug\netcoreapp3.1\WebVeriCekme.exe
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\obj\Debug\netcoreapp3.1\WebVeriCekme.csprojAssemblyReference.cache
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\obj\Debug\netcoreapp3.1\WebVeriCekme.AssemblyInfoInputs.cache
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\obj\Debug\netcoreapp3.1\WebVeriCekme.AssemblyInfo.cs
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\obj\Debug\netcoreapp3.1\WebVeriCekme.csproj.CoreCompileInputs.cache

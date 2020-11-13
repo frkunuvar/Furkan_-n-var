@@ -1,0 +1,12 @@
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\bin\Debug\netcoreapp2.1\WebVeriCekme.deps.json
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\bin\Debug\netcoreapp2.1\WebVeriCekme.runtimeconfig.json
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\bin\Debug\netcoreapp2.1\WebVeriCekme.runtimeconfig.dev.json
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\bin\Debug\netcoreapp2.1\WebVeriCekme.dll
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\obj\Debug\netcoreapp2.1\WebVeriCekme.csprojAssemblyReference.cache
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\obj\Debug\netcoreapp2.1\WebVeriCekme.AssemblyInfoInputs.cache
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\obj\Debug\netcoreapp2.1\WebVeriCekme.AssemblyInfo.cs
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\obj\Debug\netcoreapp2.1\WebVeriCekme.genruntimeconfig.cache
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\bin\Debug\netcoreapp2.1\WebVeriCekme.pdb
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\obj\Debug\netcoreapp2.1\WebVeriCekme.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\obj\Debug\netcoreapp2.1\WebVeriCekme.dll
+C:\Users\FURKAN\source\repos\WebVeriCekme\WebVeriCekme\obj\Debug\netcoreapp2.1\WebVeriCekme.pdb
